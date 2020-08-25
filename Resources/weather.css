@@ -1,0 +1,47 @@
+h1 {
+    text-align: center;
+    background-color: rgba(7, 11, 102, 0.938);
+    color: rgb(211, 223, 226);
+    font-size: 10ch;
+  }
+
+.nav-item {
+  font-stretch: expanded;
+  width: 25vw;
+  text-align: center;
+  font-size: 5ch;
+
+}
+body {
+  background-image: url(https://static01.nyt.com/images/2020/02/06/climate/06CLI-LIGHTNING/06CLI-LIGHTNING-superJumbo.jpg);
+  background-size: 100%;
+}
+img {
+  position: relative;
+  left: 50%;
+  transform: translateX(-50%);
+  border: thick solid black;
+}
+table.dataframe {
+  background-color: whitesmoke;
+  position: relative;
+  left: 50%;
+  transform: translateX(-50%);
+  border: thick solid black;
+  font-stretch: expanded;
+  width: 25vw;
+  text-align: center;
+  font-size: 3ch;  
+  
+}
+iframe {
+  position: relative;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 70vw;
+  height: 80vh;
+}
+p {
+  color: whitesmoke;
+  font-size: 40px;
+}
